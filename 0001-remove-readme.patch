@@ -1,0 +1,20 @@
+From 9249852ad33bb4b29851f316a4b23f87a15514a1 Mon Sep 17 00:00:00 2001
+From: bagus212 <bagusdewangga2@gmail.com>
+Date: Tue, 26 Jun 2018 18:36:14 +0700
+Subject: [PATCH] remove readme
+
+---
+ README2 | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 README2
+
+diff --git a/README2 b/README2
+deleted file mode 100644
+index 4d053f9..0000000
+--- a/README2
++++ /dev/null
+@@ -1 +0,0 @@
+-bagus ok ok ok
+-- 
+2.11.0
+
